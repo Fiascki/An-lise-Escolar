@@ -9,7 +9,6 @@ Neste notebook, foram realizadas as seguintes etapas:
 - Importação e exploração inicial da base de dados
 - Limpeza e tratamento de dados
 - Análise descritiva (estatísticas, correlações)
-- Visualizações com gráficos (matplotlib, seaborn)
 - Geração de insights com base nos dados analisados
 
 ## 🛠️ Tecnologias Utilizadas
