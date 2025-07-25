@@ -16,6 +16,6 @@ Neste notebook, foram realizadas as seguintes etapas:
 - Python 
 - Jupyter Notebook
 - pandas
-
+- matplotlib.pyplot
 
 
