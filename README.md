@@ -10,6 +10,7 @@ Neste notebook, foram realizadas as seguintes etapas:
 - Limpeza e tratamento de dados
 - Análise descritiva (estatísticas, correlações)
 - Geração de insights com base nos dados analisados
+- Criação de gráfico sobre a situação
 
 ## 🛠️ Tecnologias Utilizadas
 
