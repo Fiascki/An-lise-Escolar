@@ -19,3 +19,5 @@ Neste notebook, foram realizadas as seguintes etapas:
 - matplotlib.pyplot
 
 
+Obs: Esse código foi realizado para resolver uma situação problema gerada por IA. ;)
+
