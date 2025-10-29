@@ -14,6 +14,7 @@ Neste notebook, foram realizadas as seguintes etapas:
 
 ## 🛠️ Tecnologias Utilizadas
 
+- VSCode
 - Python 
 - Jupyter Notebook
 - pandas
