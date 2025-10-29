@@ -1,4 +1,4 @@
-# 📊 Análise de Dados 3 - Análise Escolar 
+# 📊 Análise de Dados - Análise Escolar 
 
 Este projeto consiste em uma análise exploratória de dados utilizando Python. O objetivo principal é aplicar técnicas de limpeza, visualização e interpretação de dados para extrair insights relevantes de uma base de dados real.
 
